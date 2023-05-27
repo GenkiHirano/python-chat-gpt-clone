@@ -1,6 +1,0 @@
-pybind11
-openai
-llama-index
-langchain
-tweepy
-chromadb
